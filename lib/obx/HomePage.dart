@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:getx/observer%20(obs)/Other.dart';
-import 'package:getx/observer%20(obs)/controllers/counterController.dart';
+import 'package:getx/obx/Other.dart';
+import 'package:getx/obx/controllers/counterController.dart';
 
 class HomePage extends StatelessWidget {
   const HomePage({ Key? key }) : super(key: key);

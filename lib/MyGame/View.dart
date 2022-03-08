@@ -3,7 +3,7 @@ import 'dart:math';
 
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:getx/MyGame/Controller.dart';
+import 'package:getx/MyGame/Presenter.dart';
 
 class View extends StatelessWidget {
   const View({Key? key}) : super(key: key);
